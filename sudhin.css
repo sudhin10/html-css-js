@@ -1,0 +1,21 @@
+#abc
+{
+   background-color: blueviolet;
+}
+h2{
+    background-color: brown;
+    font-family: sans-serif;
+    text-align: left;
+    margin-left: 30%;
+}
+#abc1{
+    background-color: rgb(204, 0, 255);
+}
+#ab{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkred;
+}
+#cd{
+    font-style: italic;
+    font-style: inherit;
+}
